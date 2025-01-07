@@ -1,0 +1,2615 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rokeby",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.439408,
+          -42.908157
+        ],
+        "type": "Point"
+      },
+      "id": "000397ddf20097d73578b2e4ca635464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wonga Point (Bateau Bay)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.486467,
+          -33.384366
+        ],
+        "type": "Point"
+      },
+      "id": "00f39847f90d4944c3ca6789163e2234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Victoria Point",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.29085,
+          -27.57999
+        ],
+        "type": "Point"
+      },
+      "id": "0122d039ed9ae780fb9519108e5dc486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cameron Bay",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.259294,
+          -42.808878
+        ],
+        "type": "Point"
+      },
+      "id": "02f86c994e8b1451696a6634f49aa31a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Leanyer Sanderson",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.910599,
+          -12.3589
+        ],
+        "type": "Point"
+      },
+      "id": "0371df3dc13d565b3222d59aaaebd5ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Redcliffe",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.06895,
+          -27.25013
+        ],
+        "type": "Point"
+      },
+      "id": "043d8e7b8f13ffb6e31bb5d18c68c948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warriewood",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.311883,
+          -33.69805
+        ],
+        "type": "Point"
+      },
+      "id": "061ab0e014ef1a3a859dd572e9ddfbbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Fairy Domestic WRP",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          142.244502,
+          -38.397605
+        ],
+        "type": "Point"
+      },
+      "id": "071a481de10be73d02e9a742d235c502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Kembla",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.920583,
+          -34.495333
+        ],
+        "type": "Point"
+      },
+      "id": "0738befa2ef500a3bb71168e4a347620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sandgate",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.0732,
+          -27.33001
+        ],
+        "type": "Point"
+      },
+      "id": "0bb8619a5dd635ba6f23c9448ff3b0c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ludmilla",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.8223,
+          -12.4015
+        ],
+        "type": "Point"
+      },
+      "id": "0d356d72f0de8f67fedfe15be4f4d167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Risdon (east)",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.319887,
+          -42.81904
+        ],
+        "type": "Point"
+      },
+      "id": "0dbfb7e18ec88b9e50006000b3899d8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Margate",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.278198,
+          -43.025778
+        ],
+        "type": "Point"
+      },
+      "id": "0fa07e43d0daffdd4809a6c651080eee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Lincoln",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          135.89514,
+          -34.750682
+        ],
+        "type": "Point"
+      },
+      "id": "1707ff573c65d1888da57cf8bbbfb94a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Triabunna",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.920748,
+          -42.503793
+        ],
+        "type": "Point"
+      },
+      "id": "1877e1f4a027d5677757e8b77060ccfd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Millbank",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.31683,
+          -24.86452
+        ],
+        "type": "Point"
+      },
+      "id": "19d15695cb8a2cba3b0693ac00889439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bunbury",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.6039,
+          -33.3793
+        ],
+        "type": "Point"
+      },
+      "id": "1abd3031a7b45e1532136085089a9196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Round Hill",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.944437,
+          -41.063287
+        ],
+        "type": "Point"
+      },
+      "id": "1b1ad97eeb163439a325ea1b3cd146f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tin Can Bay",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.99361,
+          -25.91758
+        ],
+        "type": "Point"
+      },
+      "id": "1ef5516ae3cdb51664fc41082978f046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Augusta East",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          137.779488,
+          -32.535429
+        ],
+        "type": "Point"
+      },
+      "id": "20eaa0d87b1a199c2d9095c4e9128ade"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Murrumba Downs",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.99809,
+          -27.27061
+        ],
+        "type": "Point"
+      },
+      "id": "219d17dca5d11c7f62e4e9cebf9e47f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burpengary East",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.03356,
+          -27.14847
+        ],
+        "type": "Point"
+      },
+      "id": "21e6c6fad6ee960a8b606e67bddf47c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whyalla",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          137.552655,
+          -33.05816
+        ],
+        "type": "Point"
+      },
+      "id": "24e4db94f553d982b95cb5fad10a11d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Long Nose (Tomakin)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.208117,
+          -35.835183
+        ],
+        "type": "Point"
+      },
+      "id": "25265bca96ae14087cf23e912c1ac1c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ulladulla",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.469167,
+          -35.3777
+        ],
+        "type": "Point"
+      },
+      "id": "254c21fc5434ec10ad31143351ecd168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Merimbula",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          149.902235,
+          -36.921303
+        ],
+        "type": "Point"
+      },
+      "id": "25e2e2607f921469d9fa3169b18155cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glenelg",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.50393,
+          -34.963133
+        ],
+        "type": "Point"
+      },
+      "id": "263abd89fb336dac58d52b98f05df77c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Subiaco",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.7437,
+          -31.9553
+        ],
+        "type": "Point"
+      },
+      "id": "2652a3f108acb62f6fe9dd16148804aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Capalaba",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.1968,
+          -27.51698
+        ],
+        "type": "Point"
+      },
+      "id": "28d29ac98f7873556ed4980fe4b47391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Milikapiti",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.682979,
+          -11.43029
+        ],
+        "type": "Point"
+      },
+      "id": "29fb340434cbc2b7a0b19560bb322bfd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Point Peron",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.6806,
+          -32.2791
+        ],
+        "type": "Point"
+      },
+      "id": "2bb1c2165269191ae79416ddf53698f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stanley",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.297356,
+          -40.749472
+        ],
+        "type": "Point"
+      },
+      "id": "2d172146d22b04ad69734677686d4d4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cannonvale",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          148.6936,
+          -20.2653
+        ],
+        "type": "Point"
+      },
+      "id": "2d7ae2e8d08e2f8eea199d7bea64e5dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Crescent Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.969025,
+          -31.182264
+        ],
+        "type": "Point"
+      },
+      "id": "2f3071db93d03e232895a5b71fb48807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "George Town",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          146.826008,
+          -41.135503
+        ],
+        "type": "Point"
+      },
+      "id": "30775ab253054231253d97ea62dfe0fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Christmas Island",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          105.548813,
+          -10.447451
+        ],
+        "type": "Point"
+      },
+      "id": "323050646559679385d7a96f4aee2486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Minjilang",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          132.57836,
+          -11.1388
+        ],
+        "type": "Point"
+      },
+      "id": "32ca7afd7d762bae12655606696dc8f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southern WWTP (Woree)",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          145.76835,
+          -16.96163
+        ],
+        "type": "Point"
+      },
+      "id": "339d4a22d9cdd6461e64fe8f3a2727b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gibson Island",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.1175,
+          -27.4369
+        ],
+        "type": "Point"
+      },
+      "id": "33cef26dd669c5de25bcf4a7a4f9e4cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lucinda",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          146.32809,
+          -18.52356
+        ],
+        "type": "Point"
+      },
+      "id": "3473bc745c26fda3cd6c41d28223e000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bellambi",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.928433,
+          -34.372067
+        ],
+        "type": "Point"
+      },
+      "id": "372a465231cf706a25859075f0e5aa81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bombo",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.8614,
+          -34.653117
+        ],
+        "type": "Point"
+      },
+      "id": "3821c9d9334af61146b48b8282bca6f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Foster",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          146.23672,
+          -38.696084
+        ],
+        "type": "Point"
+      },
+      "id": "388526c6a194f0deeb157246fb291f8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Woodman Point",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.6803,
+          -32.2792
+        ],
+        "type": "Point"
+      },
+      "id": "3c325221371d87320458299d168c8ac2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bermagui",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.074317,
+          -36.443817
+        ],
+        "type": "Point"
+      },
+      "id": "3e7cfab5b269d87aaac05fd195c2b5a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beenleigh",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.22953,
+          -27.71162
+        ],
+        "type": "Point"
+      },
+      "id": "409bdcfc3ffe58629ca4666304f70762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Potter Point (Cronulla)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.212333,
+          -34.043083
+        ],
+        "type": "Point"
+      },
+      "id": "41933a5bcb54e8a1df27473999442399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Sorell",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          146.541082,
+          -41.124623
+        ],
+        "type": "Point"
+      },
+      "id": "42be16f6da0344eb4f21a9a2f1a8e3d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Newnham",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.114147,
+          -41.397598
+        ],
+        "type": "Point"
+      },
+      "id": "446af49a735a3a384dc3da034199d04a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coffs Harbour",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.131991,
+          -30.322766
+        ],
+        "type": "Point"
+      },
+      "id": "4551ad443dca8210240642b59d042b4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burwood Beach (Newcastle)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.747217,
+          -32.970283
+        ],
+        "type": "Point"
+      },
+      "id": "4577db6795b27df59d66acbf6d039fa8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maroochydore",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.06081,
+          -26.63958
+        ],
+        "type": "Point"
+      },
+      "id": "45fa0de56cea5b4ad786c5b21d6443fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sorell",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.563723,
+          -42.793141
+        ],
+        "type": "Point"
+      },
+      "id": "475e300529b95179a34136bda0c4b488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gladstone",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          151.2206,
+          -23.84
+        ],
+        "type": "Point"
+      },
+      "id": "477cdc0cbb591f3116945c6d57241429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Fairy Industrial WRP",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          142.244502,
+          -38.397605
+        ],
+        "type": "Point"
+      },
+      "id": "4875d674f12aab373386b6973d0b67c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wynnum",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.16896,
+          -27.41533
+        ],
+        "type": "Point"
+      },
+      "id": "4b6e43f6d807ce69e5c0fb71712db3c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Richmond",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.443525,
+          -42.745338
+        ],
+        "type": "Point"
+      },
+      "id": "4d6404c67568837325b828e7c6790cbc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eli Creek",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.8098,
+          -25.264
+        ],
+        "type": "Point"
+      },
+      "id": "4e76f0de391facc081b1aad84e4cf8d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wynyard",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.759784,
+          -40.995733
+        ],
+        "type": "Point"
+      },
+      "id": "50a92729e6faed2a8b21ee1ca4700e65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Baxter's Beach",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          145.527378,
+          -38.60436
+        ],
+        "type": "Point"
+      },
+      "id": "514d52d5ed27aefc80c503610b5455cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rosny",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.351322,
+          -42.87638
+        ],
+        "type": "Point"
+      },
+      "id": "51cad595659eaa17aa3602feb6eea9a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Home Island",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          96.824125,
+          -12.136232
+        ],
+        "type": "Point"
+      },
+      "id": "52c1abdc923df3fafb9c888830ffc67b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beenyup A",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.7116,
+          -31.7631
+        ],
+        "type": "Point"
+      },
+      "id": "54f858a7b4204a6068983b948dbfa0cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Batemans Bay",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.219216,
+          -35.762848
+        ],
+        "type": "Point"
+      },
+      "id": "55c7821bdb390450bb3ca9c6a350567a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thorneside",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.18854,
+          -27.48409
+        ],
+        "type": "Point"
+      },
+      "id": "55e20cc44bb3e3fc1e9ef68c53ab36d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "McGaurans Beach outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          147.102604,
+          -38.448583
+        ],
+        "type": "Point"
+      },
+      "id": "5791b0de510936b8dc92fb81e99debc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pardoe",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          146.3924,
+          -41.1632
+        ],
+        "type": "Point"
+      },
+      "id": "5947a860cbcd97e81a93c7a19e37d544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Berrimah",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.913018,
+          -12.459168
+        ],
+        "type": "Point"
+      },
+      "id": "59f78748afd48d6676457e742ff0b2ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maryborough",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.726,
+          -25.51969
+        ],
+        "type": "Point"
+      },
+      "id": "612a19b4ee0fc36ad405038d24bba296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oxley",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.9736,
+          -27.54463
+        ],
+        "type": "Point"
+      },
+      "id": "612d1ce639aaa3fad28f582a019dbb4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Busselton (South Wetlands)",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.323078,
+          -33.660418
+        ],
+        "type": "Point"
+      },
+      "id": "61e9b4321b98bdcaa2437cb1d6783caa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Werribee (Port Phillip Bay)",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.581825,
+          -38.011269
+        ],
+        "type": "Point"
+      },
+      "id": "624d7e6113d9500e4262e80a34c5f518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Milingimbi",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          134.918425,
+          -12.113603
+        ],
+        "type": "Point"
+      },
+      "id": "63366f4c12d6809a4dfb666498e20939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pulgul Creek",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.89785,
+          -25.31254
+        ],
+        "type": "Point"
+      },
+      "id": "64502ba52ff5e6df67a94497d448c15a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.3505,
+          -33.8245
+        ],
+        "type": "Point"
+      },
+      "id": "646e698ad91128a7c9c04ff50576813d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Somerset",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.805429,
+          -41.025887
+        ],
+        "type": "Point"
+      },
+      "id": "663574465595b7651adf389df8f087a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Palmerston",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.942005,
+          -12.508174
+        ],
+        "type": "Point"
+      },
+      "id": "666bcc6ef2629f47622a61882f2f268e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belmont",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.677767,
+          -33.05695
+        ],
+        "type": "Point"
+      },
+      "id": "70a7fce02e2b9094561e9c2a93e8d51b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Altona",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.79,
+          -37.872
+        ],
+        "type": "Point"
+      },
+      "id": "70d877a27d25d7aec02394728bbfda95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mackay Southern",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          149.12505,
+          -21.20573
+        ],
+        "type": "Point"
+      },
+      "id": "725b736559dd02b726a611c25a2bb846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hoblers Bridge",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.169998,
+          -41.438054
+        ],
+        "type": "Point"
+      },
+      "id": "7398c07c511c81de2fe7534178d8f4fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coniston Beach (Woolongong)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.898967,
+          -34.445333
+        ],
+        "type": "Point"
+      },
+      "id": "76782adddff97dcc32eb5ed7881f7212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Innisfail",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          146.06157,
+          -17.53597
+        ],
+        "type": "Point"
+      },
+      "id": "77245fbbc1b45c3043c4674ec5b12c6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bridport",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.385771,
+          -40.979509
+        ],
+        "type": "Point"
+      },
+      "id": "790fa860a6b53b27806b756632e32242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nambour",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.06081,
+          -26.63958
+        ],
+        "type": "Point"
+      },
+      "id": "797a32d3294a798ef9e0779ff67b1afb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Electrona",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.268836,
+          -43.054599
+        ],
+        "type": "Point"
+      },
+      "id": "7c038ab440181bfabc0bb18a4eccb1f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Turners Beach",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          146.251062,
+          -41.166492
+        ],
+        "type": "Point"
+      },
+      "id": "7d2bdab34259f80b011a5b1a7bdcba1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Portland",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          141.597048,
+          -38.383073
+        ],
+        "type": "Point"
+      },
+      "id": "7e382ee6fd776d90a598692ba7307245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eden",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          149.912484,
+          -37.067034
+        ],
+        "type": "Point"
+      },
+      "id": "7e9bba88b8441a881b1d094f19c8d090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cleveland Bay",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          146.864,
+          -19.28838
+        ],
+        "type": "Point"
+      },
+      "id": "7efa3a0f8d1a12166891ee4d5066f408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dover",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.033395,
+          -43.315851
+        ],
+        "type": "Point"
+      },
+      "id": "80ecb3621ad7d71f83407b04bff57c9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Forster",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.557702,
+          -32.233194
+        ],
+        "type": "Point"
+      },
+      "id": "8180177e3b05ea3cae59a3a44eebf63f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bridgewater",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.236621,
+          -42.745574
+        ],
+        "type": "Point"
+      },
+      "id": "8332d956121b3b435feca7e7bb5c15d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Karana Downs",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.83445,
+          -27.5401
+        ],
+        "type": "Point"
+      },
+      "id": "865c6f97a319a75f7078df14dc34e563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Skennars Head (Lennox Head)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.605333,
+          -28.827
+        ],
+        "type": "Point"
+      },
+      "id": "865d384d248b893f136ceae685a54dd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fairfield",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.01344,
+          -27.50534
+        ],
+        "type": "Point"
+      },
+      "id": "8b9d11dac1cac2778248c7ac0996edb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bolivar WWTP",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.467227,
+          -34.725964
+        ],
+        "type": "Point"
+      },
+      "id": "8bd734dee876aedd562a0c496a1598d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bondi",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.306667,
+          -33.8945
+        ],
+        "type": "Point"
+      },
+      "id": "8e470e9cfc1bf90850a144e208a9cd65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yirrkala",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          136.901749,
+          -12.262541
+        ],
+        "type": "Point"
+      },
+      "id": "8e79fa24bb17274a70aeaf563af897e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alkimos",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.6243,
+          -31.6168
+        ],
+        "type": "Point"
+      },
+      "id": "8ffb6eb9963b396de1fed63339b3bb56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ulverstone",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          146.161142,
+          -41.141155
+        ],
+        "type": "Point"
+      },
+      "id": "9061266503e52e18599f8e9ba474a896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blackmans Bay",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.325906,
+          -43.015681
+        ],
+        "type": "Point"
+      },
+      "id": "91284fed37e7cdb211aa667db63514c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Rockhampton",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          150.5183,
+          -23.3782
+        ],
+        "type": "Point"
+      },
+      "id": "932da6cf8cc2c9163ff2bbf9ae33b7f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Macquarie Point",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.34124,
+          -42.877707
+        ],
+        "type": "Point"
+      },
+      "id": "93d03330251000ab8508874a3ac1939e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Christies Beach-Southern",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.465482,
+          -35.126448
+        ],
+        "type": "Point"
+      },
+      "id": "94d2eccd3f16fbcce17d4a8967ce134c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bowen",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          148.26532,
+          -20.02545
+        ],
+        "type": "Point"
+      },
+      "id": "99074bc83c41a93461cd277e00cf7883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cambridge/airport",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.51404,
+          -42.837566
+        ],
+        "type": "Point"
+      },
+      "id": "99833075db3bea9e3321e7fbc55af6a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Currie",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          143.835526,
+          -39.933302
+        ],
+        "type": "Point"
+      },
+      "id": "9c882ba7a3a576ce2fbf5d786cfa325e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Christies Beach-Northern",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.462318,
+          -35.125844
+        ],
+        "type": "Point"
+      },
+      "id": "9f8a8451488226075453a17a0cacf34b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edmonton",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          145.76284,
+          -16.99084
+        ],
+        "type": "Point"
+      },
+      "id": "9fe5f7226b2349581547cf02f31e32dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wickham",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          117.165018,
+          -20.671939
+        ],
+        "type": "Point"
+      },
+      "id": "a21acf7c9ca5ec29d626781ad2cb92df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Trees Inlet",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          151.2996,
+          -23.9047
+        ],
+        "type": "Point"
+      },
+      "id": "a37d9a869cb3bce8271e4698c6d09291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goodna",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.88829,
+          -27.5907
+        ],
+        "type": "Point"
+      },
+      "id": "a54714c9701b4f710c5c604336ed6b92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Arthur",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.8584,
+          -43.144301
+        ],
+        "type": "Point"
+      },
+      "id": "a56c6809f09ee2d83d2ee76e2fc88adc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boags Rock Outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.853598,
+          -38.445214
+        ],
+        "type": "Point"
+      },
+      "id": "a5c313b1b2c2b9a3925647cd4038e8fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carole Park",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.90603,
+          -27.60202
+        ],
+        "type": "Point"
+      },
+      "id": "a6018c01d7562235ea98e107c8b54071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Pirie",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          137.967354,
+          -33.182087
+        ],
+        "type": "Point"
+      },
+      "id": "a7f0bf01eeea08203c4274b40435e39e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Penguin Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.783483,
+          -34.9316
+        ],
+        "type": "Point"
+      },
+      "id": "a80e5627bc21d28bf53035d85966ac66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sisters Beach",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.564854,
+          -40.913201
+        ],
+        "type": "Point"
+      },
+      "id": "a927da4e31398949835a05d9fcc47763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ti-tree Bend",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.121777,
+          -41.41684
+        ],
+        "type": "Point"
+      },
+      "id": "ad1d45b4cc2d6639d4778770b7d3fa24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kawana",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.14377,
+          -26.73071
+        ],
+        "type": "Point"
+      },
+      "id": "ae71089c4391628e5812edb002c0a162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Welshpool",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          146.462555,
+          -38.703567
+        ],
+        "type": "Point"
+      },
+      "id": "b001f29d59545990c4079af63864faa0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anglesea WRP Ocean Outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.196697,
+          -38.407807
+        ],
+        "type": "Point"
+      },
+      "id": "b127c7dbf9ad406562eeeb288191b41b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warrnambool WRP",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          142.45707,
+          -38.395698
+        ],
+        "type": "Point"
+      },
+      "id": "b153f3f07e9856384d2968a9d3f8cdbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East WWTP",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.36568,
+          -24.85209
+        ],
+        "type": "Point"
+      },
+      "id": "b16da59052fd6c6cf7ddb0955053397d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pirlangimpi",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.419233,
+          -11.413302
+        ],
+        "type": "Point"
+      },
+      "id": "b3102145c1aeac37159926df1f9ddf6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mt St John",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          146.7488,
+          -19.2476
+        ],
+        "type": "Point"
+      },
+      "id": "b6af6dd6baa92935a9357c82eb710bb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Apollo Bay WRP Ocean Outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          143.660731,
+          -38.782708
+        ],
+        "type": "Point"
+      },
+      "id": "b7e0bece86a757bdaf3511d04e4d5f96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Orford",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.90913,
+          -42.571303
+        ],
+        "type": "Point"
+      },
+      "id": "bae27ef93aad883fa4cfa8af3d04ba92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bolivar High Salinity",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.467493,
+          -34.725964
+        ],
+        "type": "Point"
+      },
+      "id": "bbaf3aceb15a4192b07db133db8b49f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Selfs Point",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.319782,
+          -42.845999
+        ],
+        "type": "Point"
+      },
+      "id": "bc894ece5d98f46c60723dc30bb2c1f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coolum",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.96701,
+          -26.57877
+        ],
+        "type": "Point"
+      },
+      "id": "beb372167ecf3e3f1b4468c6d2870858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Toora",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          146.339733,
+          -38.675741
+        ],
+        "type": "Point"
+      },
+      "id": "c05fac0083b3bf565552dfb2febe1693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coombabah",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.42633,
+          -27.93403
+        ],
+        "type": "Point"
+      },
+      "id": "c280f6f599066bde6e5de54c8d29454e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maningrida",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          134.22955,
+          -12.03668
+        ],
+        "type": "Point"
+      },
+      "id": "c3860da0c6584160262734fcf45bbf80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Marlin Coast",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          145.70909,
+          -16.8271
+        ],
+        "type": "Point"
+      },
+      "id": "c555fda5ea2d873376f1d4ce953e00d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Loganholme",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.2034,
+          -27.6871
+        ],
+        "type": "Point"
+      },
+      "id": "c6b139c378ab2f837cb7d11cc4803f8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boulder Bay",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.16125,
+          -32.763967
+        ],
+        "type": "Point"
+      },
+      "id": "c7c7b58ef539dd0d3b2a2bab34fa0454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Camden Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.822198,
+          -31.662974
+        ],
+        "type": "Point"
+      },
+      "id": "c7f0200296d9b883b6a584b376155aa6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mackay North (Bucasia)",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          149.13172,
+          -21.02161
+        ],
+        "type": "Point"
+      },
+      "id": "c8110332ea7d21c8b8ba4e0445e88893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lorne WRP Ocean Outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          143.990331,
+          -38.517712
+        ],
+        "type": "Point"
+      },
+      "id": "c912c8418ec697216bff8ce4440fbf70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cygnet",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.091641,
+          -43.168629
+        ],
+        "type": "Point"
+      },
+      "id": "cca6c196e1a758c49d5a38cbefbb1fee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "West Rockhampton",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          150.5016,
+          -23.3632
+        ],
+        "type": "Point"
+      },
+      "id": "cd5f363b62bcf119611337ff03fab6a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beenyup B",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.7095,
+          -31.7626
+        ],
+        "type": "Point"
+      },
+      "id": "cde3abfc5875afe853627fea0e2d7f44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Galiwinku",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          135.592878,
+          -12.047481
+        ],
+        "type": "Point"
+      },
+      "id": "ce62a3722e5e62c020242a1d0dcb2f3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elanora",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.42948,
+          -27.93601
+        ],
+        "type": "Point"
+      },
+      "id": "ce9ddb136840dbe70fcca9fb903cb9b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wacol",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.89558,
+          -27.58279
+        ],
+        "type": "Point"
+      },
+      "id": "d0387e5446deab4ae218470ddb12c945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Narooma",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.1342,
+          -36.19315
+        ],
+        "type": "Point"
+      },
+      "id": "d30c56591a0c0b131608d191bc316526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boat Harbour",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.617616,
+          -40.927535
+        ],
+        "type": "Point"
+      },
+      "id": "d506cefaf5c6be0ae2f045ead0506994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Douglas",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          145.45983,
+          -16.49345
+        ],
+        "type": "Point"
+      },
+      "id": "d520ec91d2043194bb2bdffe60e8cbcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Malabar",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.306667,
+          -33.987
+        ],
+        "type": "Point"
+      },
+      "id": "d813535c39013014a39e7b3e3a71808c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Caboolture South",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.97011,
+          -27.09525
+        ],
+        "type": "Point"
+      },
+      "id": "d82adeb996fee33ef3cda33dcfabbbda"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bundamba",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.81226,
+          -27.58692
+        ],
+        "type": "Point"
+      },
+      "id": "d94b9ea38d3ab0e39d35605b6dc8f1f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Finger Point",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          140.649617,
+          -38.050679
+        ],
+        "type": "Point"
+      },
+      "id": "dda9e3fc1c220d1c4d0d51ebe2b46a6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Merrimac",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.42948,
+          -27.93601
+        ],
+        "type": "Point"
+      },
+      "id": "e026328df8e85e4a93db9f99259999e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Milyakburra",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          136.201676,
+          -13.771056
+        ],
+        "type": "Point"
+      },
+      "id": "e1b37c1600fbcd2844ce68c07a6a9a08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Helens",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          148.261171,
+          -41.32379
+        ],
+        "type": "Point"
+      },
+      "id": "e2872cbbcce61298650a216fd4e3f965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Landsborough",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.14377,
+          -26.73071
+        ],
+        "type": "Point"
+      },
+      "id": "e310855768b076b30e8e81a6525293aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bicheno",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          148.258067,
+          -41.838105
+        ],
+        "type": "Point"
+      },
+      "id": "e491709ebd1f9570102a15268c4d9d44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Midway Point",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.563723,
+          -42.793141
+        ],
+        "type": "Point"
+      },
+      "id": "e6037704e850cc6a83852122076c2653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Luggage Point",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.16026,
+          -27.37799
+        ],
+        "type": "Point"
+      },
+      "id": "e9b2adbfee42666591f99345bb559651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Smithton",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.101634,
+          -40.823903
+        ],
+        "type": "Point"
+      },
+      "id": "e9d5ed31aec75e0def7271d9ce1e882a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Phillip Island Ocean outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          145.221741,
+          -38.529857
+        ],
+        "type": "Point"
+      },
+      "id": "e9dc2c9b8ace1a219d90ef0f6a703f9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Norah Head (Toukley)",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.577733,
+          -33.283167
+        ],
+        "type": "Point"
+      },
+      "id": "ea2264b5e37b7b975e203de269470b49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riverside",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.115579,
+          -41.418565
+        ],
+        "type": "Point"
+      },
+      "id": "ec60fe5e58da71a0b301221823970123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wurrumiyanga",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          130.62814,
+          -11.75034
+        ],
+        "type": "Point"
+      },
+      "id": "f0455c18596a70e348c8c2761f82b05d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Busselton (North Wetlands)",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.323845,
+          -33.650636
+        ],
+        "type": "Point"
+      },
+      "id": "f16b68ce3fdfa9c659b569ba8c8ce1c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shellharbour",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.87365,
+          -34.563683
+        ],
+        "type": "Point"
+      },
+      "id": "f26a03feaaf7cad70a4133e949562605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Black Rock WRP Ocean Outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.423203,
+          -38.294943
+        ],
+        "type": "Point"
+      },
+      "id": "f3941aa2857d2df4676a810a3a75ecc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Rockhampton",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          150.5296,
+          -23.3932
+        ],
+        "type": "Point"
+      },
+      "id": "f4bd176b371cb48ab943fc7b308d1c27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Prince of Wales Bay",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.306624,
+          -42.825574
+        ],
+        "type": "Point"
+      },
+      "id": "f540e90cc410703579d1422f77d4a086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Delray Beach outfall",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          147.362344,
+          -38.241584
+        ],
+        "type": "Point"
+      },
+      "id": "f5e7d5c98ef4cf67a454c3b8fac41ad4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East Strahan",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.3112,
+          -42.152936
+        ],
+        "type": "Point"
+      },
+      "id": "f92cd76fac40611495ed1d8a239c8d18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warruwi",
+        "State": "Northern Territory"
+      },
+      "geometry": {
+        "coordinates": [
+          133.40197,
+          -11.66129
+        ],
+        "type": "Point"
+      },
+      "id": "fbbc07126c9731903728279404fa77ac"
+    }
+  ],
+  "type": "FeatureCollection"
+}
