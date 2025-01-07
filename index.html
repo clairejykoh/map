@@ -2,157 +2,184 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Create interactive hover effects with Mapbox GL JS</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
-    <link
-      href="https://api.tiles.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.css"
-      rel="stylesheet"
-    />
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-      }
-
-      #map {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 100%;
-      }
-        
-      
-      .map-overlay {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  background: #fff;
-  margin-right: 20px;
-  font-family: Arial, sans-serif;
-  overflow: auto;
-  border-radius: 3px;
-}
-
-#features {
-  top: 0;
-  height: 300px;
-  margin-top: 20px;
-  width: 350px;
-}
-
-#legend {
-  padding: 10px;
-  box-shadow: 0 1px 2px rgba(0 0 0 0.1);
-  line-height: 18px;
-  height: 150px;
-  margin-bottom: 40px;
-  width: 200px;
-}
-    .tooltip {
-        position: absolute;
-        font-family: sans-serif;
-        margin-top: 5px;
-        margin-left: 5px;
-        padding: 5px;
-        width: 30%;
-        border: 2px solid black;
-        font-size: 14px;
-        color: #222;
-        background-color: #fff;
-        border-radius: 3px;
-    }
-        
-    </style>
-  </head>
-  <body>
-    <div id="map"></div>
+    <title>Avoid the Murky Water</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.9.1/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.9.1/mapbox-gl.js"></script>
     
-    <div class="map-overlay" id="features">
-    <h2>US population density</h2>
-    <div id="pd"><p>Hover over a state!</p></div>
-    </div>
-    <div class="map-overlay" id="legend"></div>  
+<style>
+  body { margin: 0; padding: 0; }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    body {
+    margin: 0;
+    padding: 0;
+  }
+
+  h2,
+  h3 {
+    margin: 10px;
+    font-size: 18px;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+
+  p {
+    margin: 10px;
+  }
+
+  /**
+  * Create a position for the map
+  * on the page */
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+  /**
+  * Set rules for how the map overlays
+  * (information box and legend) will be displayed
+  * on the page. */
+  .map-overlay {
+    top:0;
+    margin-top:60px;
+    position: absolute;
+    left: 0;
+    background: #1c1c1c;
+    opacity:0.7;
+    font-family: monospace;
+    color:#fff;
+    overflow: auto;
+    border-radius: 2px;
+    border-color:#fff;
+    border: solid;
+    border-width: 2px;
+  }
+
+  #outfallsinfo {
+    margin-left: 30px;
+    height: 150px;
+    width: 250px;
+  }
+
+  #sharkattacks {
+    margin-left:310px;
+    line-height: 18px;
+    height: 150px;
+    width: 250px;
+  }
+
+  .sharkattacks-key {
+    display: inline-block;
+    border-radius: 20%;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+  }
+</style>
     
-    
-    <div class="tooltip">
-        <div><strong>Location:</strong>&nbsp;<span id="loc"></span></div>
-        <div><strong>Outcome:</strong>&nbsp;<span id="out"></span></div>
-        <div><strong>Date:</strong>&nbsp;<span id="date"></span></div>
-    </div>
-
-    <script>
-      mapboxgl.accessToken = 
-        'pk.eyJ1IjoiY2xhaXJlanlrb2giLCJhIjoiY201OGpldGRkM281ZjJrcTZ2aGQ4ZW51NyJ9.abXmOYSuLz1Fi6bM6wqfoA';
-
-      const bounds = [
-        [100, -52.5], // Southwest coordinates
-        [170, 10] // Northeast coordinates
-      ];
-      
-      const map = new mapboxgl.Map({
-        container: 'map', // Specify the container ID
-        style:
-          'mapbox://styles/clairejykoh/cm58vnq4f00p301s8hdyh128o', // Specify which map style to use
-        center: [135, -40], // Specify the starting position [lng, lat]
-        zoom: 2, // Specify the starting zoom
-        maxBounds: bounds
-      });
-      
-
-      
-let hoveredStateId = null;
-
-map.on('load', () => {
-  // Add the mousemove event listener
-  map.on('mousemove', 'australia-ocean-outfalls', (e) => {
-    // Change the cursor to a pointer when hovering over the layer
-    map.getCanvas().style.cursor = 'pointer';
-
-    // Get the feature ID of the hovered point
-    const featureId = e.features[0].properties.Name;
-
-    // Update the hovered state
-    if (hoveredStateId !== featureId) {
-      hoveredStateId = featureId;
-
-      // Set the circle radius and opacity of the hovered point
-      map.setPaintProperty('australia-ocean-outfalls', 'circle-radius', [
-        'case',
-        ['==', ['get', 'Name'], hoveredStateId], 12, // Hovered circle size
-        10 // Default circle size
-      ]);
-
-      map.setPaintProperty('australia-ocean-outfalls', 'circle-opacity', [
-        'case',
-        ['==', ['get', 'Name'], hoveredStateId], 1, // Fully opaque when hovered
-        0.2 // Default opacity
-      ]);
-    }
-  });
-
-  // Reset the circle size and opacity when the mouse leaves the layer
-  map.on('mouseleave', 'australia-ocean-outfalls', () => {
-    map.getCanvas().style.cursor = ''; // Reset cursor
-
-    // Reset all circles to default size and opacity
-    map.setPaintProperty('australia-ocean-outfalls', 'circle-radius', 10);
-    map.setPaintProperty('australia-ocean-outfalls', 'circle-opacity', 0.2);
-
-    // Clear the hovered state
-    hoveredStateId = null;
-  });
-});
-   
-      
-    
-      
+</head>
   
-        
+  
+<body>
+  <div id="map"></div>
+  <div class="map-overlay" id="outfallsinfo">
+    <h2>Ocean Outfalls</h2>
+    <div id="pd"><p>Hover over the points</p></div>
+  </div>
+  <div class="map-overlay" id="sharkattacks">
+    <h2>Shark Attacks</h2>
+    <div id="at"><p>Hover over the points</p></div>
+  </div>
+  
+  
+  
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoiY2xhaXJlanlrb2giLCJhIjoiY201OGpldGRkM281ZjJrcTZ2aGQ4ZW51NyJ9.abXmOYSuLz1Fi6bM6wqfoA';
+    const map = new mapboxgl.Map({
+        container: 'map',
+        // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
+        style: 'mapbox://styles/clairejykoh/cm59u7xbj00n801s9etcxfpon',
+        center: [133, -28],
+        zoom: 3.8
+    });
+    let hoveredPolygonId = null;
+
     
-            //const magDisplay = document.getElementById('loc');
-        //const locDisplay = document.getElementById('out');
-        //const dateDisplay = document.getElementById('date');
-    </script>
-  </body>
+    map.on('load', () => {
+  // Load your GeoJSON data
+  fetch('Location.geojson') // Replace with the actual path to your GeoJSON file
+    .then((response) => response.json())
+    .then((geojsonData) => {
+      // Dynamically assign IDs to each feature based on their index
+      geojsonData.features.forEach((feature, index) => {
+        feature.id = index; // Assign index as the ID
+      });
+
+
+      // Add the GeoJSON source to the map
+      map.addSource('outfalls', {
+        type: 'geojson',
+        data: geojsonData
+      });
+
+      // Add the layer for the outfalls
+      map.addLayer({
+        id: 'australia-ocean-outfalls',
+        type: 'circle',
+        source: 'outfalls',
+        paint: {
+          'circle-radius': 10,
+          'circle-color': '#219EBC',
+          'circle-opacity': [
+            'case',
+            ['boolean', ['feature-state', 'hover'], false],
+            1,
+            0.3
+          ]
+        }
+      });
+    
+    
+
+      let hoveredPolygonId = null;
+
+      // When the user moves their mouse over the layer, update feature state
+      map.on('mousemove', 'australia-ocean-outfalls', (e) => {
+        if (e.features.length > 0) {
+          if (hoveredPolygonId !== null) {
+            map.setFeatureState(
+              { source: 'outfalls', id: hoveredPolygonId },
+              { hover: false }
+            );
+          }
+          hoveredPolygonId = e.features[0].id;
+          map.setFeatureState(
+            { source: 'outfalls', id: hoveredPolygonId },
+            { hover: true }
+          );
+        }
+      });
+
+      // When the mouse leaves the layer, reset feature state
+      map.on('mouseleave', 'australia-ocean-outfalls', () => {
+        if (hoveredPolygonId !== null) {
+          map.setFeatureState(
+            { source: 'outfalls', id: hoveredPolygonId },
+            { hover: false }
+          );
+        }
+        hoveredPolygonId = null;
+      });
+    })
+    //.catch((error) => {
+    //  console.error('Error loading GeoJSON:', error);
+    //});
+});
+</script>
+
+</body>
 </html>
