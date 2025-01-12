@@ -15,8 +15,7 @@
     padding: 0;
   }
 
-  h2,
-  h3 {
+  h2, h3 {
     margin: 10px;
     font-size: 18px;
   }
@@ -28,6 +27,10 @@
   p {
     margin: 10px;
   }
+  
+  p2 {
+    margin-left:10px;
+  }
 
   /**
   * Create a position for the map
@@ -37,6 +40,10 @@
     top: 0;
     bottom: 0;
     width: 100%;
+  }
+  
+  #map canvas {
+      cursor: crosshair;
   }
 
   /**
@@ -62,14 +69,14 @@
   #outfallsinfo {
     margin-left: 30px;
     height: 150px;
-    width: 250px;
+    width: 300px;
   }
 
   #sharkattacks {
-    margin-left:310px;
+    margin-left:360px;
     line-height: 18px;
     height: 150px;
-    width: 250px;
+    width: 300px;
   }
 
   .sharkattacks-key {
@@ -86,13 +93,20 @@
   
 <body>
   <div id="map"></div>
+  
   <div class="map-overlay" id="outfallsinfo">
     <h2>Ocean Outfalls</h2>
-    <div id="pd"><p>Hover over the points</p></div>
+    <div><p2><strong>Name:</strong></p2>&nbsp;<span id="outfallname"></span></div>
+    <div><p2><strong>State:</strong></p2>&nbsp;<span id="outfallstate"></span></div>
   </div>
+  
   <div class="map-overlay" id="sharkattacks">
     <h2>Shark Attacks</h2>
-    <div id="at"><p>Hover over the points</p></div>
+    <div><p2><strong>Area:</strong></p2>&nbsp;<span id="area"></span></div>
+    <div><p2><strong>State:</strong></p2>&nbsp;<span id="state"></span></div>
+    <div><p2><strong>Year:</strong></p2>&nbsp;<span id="year"></span></div>
+    <div><p2><strong>P/U:</strong></p2>&nbsp;<span id="pu"></span></div>
+    <div><p2><strong>Outcome:</strong></p2>&nbsp;<span id="outcome"></span></div>
   </div>
   
   
@@ -118,21 +132,20 @@
       geojsonData.features.forEach((feature, index) => {
         feature.id = index; // Assign index as the ID
       });
-
-
+    
       // Add the GeoJSON source to the map
       map.addSource('outfalls', {
         type: 'geojson',
         data: geojsonData
       });
-
+    
       // Add the layer for the outfalls
       map.addLayer({
         id: 'australia-ocean-outfalls',
         type: 'circle',
         source: 'outfalls',
         paint: {
-          'circle-radius': 10,
+          'circle-radius': 12,
           'circle-color': '#219EBC',
           'circle-opacity': [
             'case',
@@ -143,14 +156,35 @@
         }
       });
     
+      map.addLayer({
+        id: 'outfalls-label',
+        type: 'symbol',
+        source: 'outfalls',
+        minzoom: 4.8,
+        layout: {
+          'text-field': ['get', 'Name'],
+          'text-font': ['Roboto Mono Regular'],
+          'text-size': 12,
+          'text-offset': [0,-2]
+        },
+        paint: {
+          'text-color': '#fff'
+      }
+      });
     
-
       let hoveredPolygonId = null;
 
       // When the user moves their mouse over the layer, update feature state
       map.on('mousemove', 'australia-ocean-outfalls', (e) => {
+        
+        const outfallName = e.features[0].properties.Name;
+        const outfallState = e.features[0].properties.State;
+        
         if (e.features.length > 0) {
           if (hoveredPolygonId !== null) {
+            nameDisplay.textContent = outfallName;
+            stateDisplay.textContent = outfallState;
+            
             map.setFeatureState(
               { source: 'outfalls', id: hoveredPolygonId },
               { hover: false }
@@ -166,19 +200,141 @@
 
       // When the mouse leaves the layer, reset feature state
       map.on('mouseleave', 'australia-ocean-outfalls', () => {
-        if (hoveredPolygonId !== null) {
-          map.setFeatureState(
-            { source: 'outfalls', id: hoveredPolygonId },
-            { hover: false }
-          );
-        }
-        hoveredPolygonId = null;
+        //if (hoveredPolygonId !== null) {
+        //  map.setFeatureState(
+        //    { source: 'outfalls', id: hoveredPolygonId },
+        //    { hover: false }
+        //  );
+        //}
+        //hoveredPolygonId = null;
       });
+      
+      const nameDisplay = document.getElementById('outfallname');
+      const stateDisplay = document.getElementById('outfallstate');
     })
     //.catch((error) => {
     //  console.error('Error loading GeoJSON:', error);
     //});
+      
+      
+      
+  fetch('Attacks.geojson') // Replace with the actual path to your GeoJSON file, 
+    //This is a built-in JavaScript function for making HTTP requests. It is used here to retrieve the GeoJSON file from the specified path
+    .then((response) => response.json()) //converts the fetched HTTP file to json file
+    .then((geojsonData) => {
+      // Dynamically assign IDs to each feature based on their index
+      geojsonData.features.forEach((feature, index) => {
+        feature.id = index; // Assign index as the ID
+      });
+    
+    // Add the GeoJSON source to the map
+    map.addSource('attacks', {
+      type: 'geojson',
+      data: geojsonData
+    });
+    
+    map.addLayer({
+      id: 'sharkattacks',
+      type: 'circle',
+      source: 'attacks',
+      paint: {
+        'circle-radius': 
+        [
+          'case',
+          ['boolean', ['feature-state', 'hover'],false],
+          9,
+          6
+          ],
+        'circle-color': [
+          'match',
+          ['get', 'Outcome'],
+          'Uninjured',
+          '#fffab7',
+          'Injured',
+          '#fbb03b',
+          'Fatal',
+          '#c70039',
+          '#ccc'
+          ],
+        'circle-opacity': 
+        [
+          'case',
+          ['boolean', ['feature-state', 'hover'], false],
+          1,
+          0.8
+        ]
+  }
+    });
+    
+ 
+    let hoveredPolygonId = null;
+    
+
+       //When the user moves their mouse over the layer, update feature state
+    map.on('mousemove', 'sharkattacks', (e) => {
+      
+      const attackArea = e.features[0].properties.Area;
+      const attackState = e.features[0].properties.State;
+      const attackYear = e.features[0].properties.Year;
+      const attackOutcome = e.features[0].properties.Outcome;
+      const attackPU = e.features[0].properties['P/U'];
+
+      if (e.features.length > 0) {
+        if (hoveredPolygonId !== null) {          
+          areaDisplay.textContent = attackArea;
+          stateDisplay.textContent = attackState;
+          yearDisplay.textContent = attackYear;
+          outcomeDisplay.textContent = attackOutcome;
+          puDisplay.textContent = attackPU;
+          // Display the magnitude, location, and time in the sidebar
+          
+      if (hoveredPolygonId) {
+        map.removeFeatureState({
+          source: 'attacks',
+          id: hoveredPolygonId
+        });
+      }
+
+          
+          map.setFeatureState(
+            { source: 'attacks', id: hoveredPolygonId },
+            { hover: false }
+          );
+        }
+        
+        hoveredPolygonId = e.features[0].id;
+        
+        map.setFeatureState(
+          { source: 'attacks', id: hoveredPolygonId },
+          { hover: true }
+        );
+        
+
+      }
+    });
+
+      // When the mouse leaves the layer, reset feature state
+    map.on('mouseleave', 'sharkattacks', () => {
+      //if (hoveredPolygonId !== null) {
+      //  map.setFeatureState(
+      //    { source: 'attacks', id: hoveredPolygonId },
+      //    { hover: false }
+      //  );
+      //}
+      //hoveredPolygonId = null;
+    }); //End map.on
+    
+  const areaDisplay = document.getElementById('area');
+  const stateDisplay = document.getElementById('state');
+  const yearDisplay = document.getElementById('year');
+  const puDisplay = document.getElementById('pu');
+  const outcomeDisplay = document.getElementById('outcome'); 
+    
+    
+    }) // End fetch function
 });
+  
+   
 </script>
 
 </body>
