@@ -1,0 +1,1949 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Nettley Bay",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          144.629072,
+          -40.92991
+        ],
+        "type": "Point"
+      },
+      "id": "0543a8b82a139d000fdea687233ae218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Evans Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.435917,
+          -29.112633
+        ],
+        "type": "Point"
+      },
+      "id": "08b75ef2aa124d47fde815920b58d506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Saltwater Point, Nr Taree",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.566012,
+          -32.006068
+        ],
+        "type": "Point"
+      },
+      "id": "093382443a5d1b13af5511cec75da1db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Ballina North Wall",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.591244,
+          -28.873232
+        ],
+        "type": "Point"
+      },
+      "id": "0f9dee60a8c95ca97989ae77396ccad6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2016",
+        "Outcome": "Fatal",
+        "Area": "One Mile Reef",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.70167,
+          -31.697827
+        ],
+        "type": "Point"
+      },
+      "id": "0ff57d51da06183ddf577764e57f689d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Tyrendarra Beach ",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          141.792794,
+          -38.258042
+        ],
+        "type": "Point"
+      },
+      "id": "10d2b325a47c95fab11c1c6e32b7e8c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Injured",
+        "Area": "Pyramids Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.627744,
+          -32.606667
+        ],
+        "type": "Point"
+      },
+      "id": "141068de1cf072a5f7b8ae5cc36dce66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2012",
+        "Outcome": "Fatal",
+        "Area": "Wedge Island",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.182248,
+          -30.827153
+        ],
+        "type": "Point"
+      },
+      "id": "14d382786df880200d6891338ca10bb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Trigg Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.750884,
+          -31.879738
+        ],
+        "type": "Point"
+      },
+      "id": "16a67b0ec8b63d78025941534964a5fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2010",
+        "Outcome": "Fatal",
+        "Area": "Gracetown",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          114.974686,
+          -33.861164
+        ],
+        "type": "Point"
+      },
+      "id": "1e8fe3d99da61d4b32a4c63579cec6db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Ocean Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          117.292298,
+          -35.028835
+        ],
+        "type": "Point"
+      },
+      "id": "1f42ca81ea23f73e6bd9db1bc5740af7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Bells Beach Winkipop Reef",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.285952,
+          -38.368884
+        ],
+        "type": "Point"
+      },
+      "id": "1f7add0990edab5427778921b22d14ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Davies Reef",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          147.649644,
+          -18.824526
+        ],
+        "type": "Point"
+      },
+      "id": "222ca3d8a7fa87991172e3c96ff4d8a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Injured",
+        "Area": "Noosa Heads",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.091307,
+          -26.385087
+        ],
+        "type": "Point"
+      },
+      "id": "2263798cc03c6f47a8a652b524da63d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Uninjured",
+        "Area": "Secret Harbour",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.744461,
+          -32.408422
+        ],
+        "type": "Point"
+      },
+      "id": "268ce645a1254bdfbd368b31f2ba122a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Uninjured",
+        "Area": "Middleton Beach",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.720097,
+          -35.514307
+        ],
+        "type": "Point"
+      },
+      "id": "27212dce8631672b080c661fcbf50e69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2014",
+        "Outcome": "Fatal",
+        "Area": "Edithburgh",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          137.698465,
+          -35.141879
+        ],
+        "type": "Point"
+      },
+      "id": "2997ebd059d324c6dcf26770f23f0aca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Redhead Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.715177,
+          -33.018046
+        ],
+        "type": "Point"
+      },
+      "id": "2db3bb88a355007f769f9a852d97e8dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Crescent Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.977066,
+          -31.184182
+        ],
+        "type": "Point"
+      },
+      "id": "2ef4dcbcd94293a467920afcb445feca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Merewether Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.758458,
+          -32.948013
+        ],
+        "type": "Point"
+      },
+      "id": "3204de31c5d25ad6ae16bfc57df4e437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Pinnaroo Point",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.727408,
+          -31.805031
+        ],
+        "type": "Point"
+      },
+      "id": "32b106232207040b8edf5b7db79dbc7e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Kings Beach Sunshine Coast",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.141398,
+          -26.805732
+        ],
+        "type": "Point"
+      },
+      "id": "36448bbcb35bbee2003f54a48e3e58a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2008",
+        "Outcome": "Fatal",
+        "Area": "Port Kennedy",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.742452,
+          -32.349674
+        ],
+        "type": "Point"
+      },
+      "id": "3d78311e7874e16671026c494acf1805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2014",
+        "Outcome": "Fatal",
+        "Area": "Tathra Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          149.980229,
+          -36.718382
+        ],
+        "type": "Point"
+      },
+      "id": "3eb76dd574420a632b67fdd4130ba5f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2011",
+        "Outcome": "Injured",
+        "Area": "Crowdy Heads",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.742638,
+          -31.841287
+        ],
+        "type": "Point"
+      },
+      "id": "3f0f5e39a4276fe8ae5a43fd16c40f0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Redhead Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.713838,
+          -33.018605
+        ],
+        "type": "Point"
+      },
+      "id": "410353da2d70e528554044bc909f9ad8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Uninjured",
+        "Area": "Yamba, Turners Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.364335,
+          -29.429741
+        ],
+        "type": "Point"
+      },
+      "id": "4114240a3bf5c724efa27fc5419c9370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Uninjured",
+        "Area": "Target Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.781394,
+          -35.073004
+        ],
+        "type": "Point"
+      },
+      "id": "416907d7f24defd2ad6478847b3c73c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2011",
+        "Outcome": "Fatal",
+        "Area": "Challenger Bay, Palm Island",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          146.57734,
+          -18.727466
+        ],
+        "type": "Point"
+      },
+      "id": "41ac02e309f28a3ed37e168c6e1fed7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Seven Mile Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.598528,
+          -28.768035
+        ],
+        "type": "Point"
+      },
+      "id": "44eacf9a3472db4c14044a1d1a46f42a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2016",
+        "Outcome": "Fatal",
+        "Area": "Gearies",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.643887,
+          -32.583211
+        ],
+        "type": "Point"
+      },
+      "id": "49afbd4bfdf6869f18bfb027aae50f3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2013",
+        "Outcome": "Fatal",
+        "Area": "Riecks Point",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.153466,
+          -30.238262
+        ],
+        "type": "Point"
+      },
+      "id": "4bf46b6127fc0619a2264dcef14a2fb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Wurtulla Beach",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.137582,
+          -26.753612
+        ],
+        "type": "Point"
+      },
+      "id": "4d19aabdacd0bdf9a005db1bb2b4a12a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Black Head Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.544782,
+          -32.069601
+        ],
+        "type": "Point"
+      },
+      "id": "4e3f3eb6378d328acf23caa6cab99803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Tallows Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.629681,
+          -28.653806
+        ],
+        "type": "Point"
+      },
+      "id": "4fa0b464e6ec3ae5010770bce22554d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Dent Island",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          148.927784,
+          -20.348211
+        ],
+        "type": "Point"
+      },
+      "id": "50de17f6fa48b0a4fe97a532a222098d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2014",
+        "Outcome": "Fatal",
+        "Area": "Rudder Reef",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          145.703655,
+          -16.194448
+        ],
+        "type": "Point"
+      },
+      "id": "52eff3d59140577f215642d2e6677869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Injured",
+        "Area": "Exmouth, Turquoise Bay",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          113.888158,
+          -22.096627
+        ],
+        "type": "Point"
+      },
+      "id": "57746088cb7897ba14de2a187bff9899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Uninjured",
+        "Area": "Elliston Bar",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          134.885424,
+          -33.644758
+        ],
+        "type": "Point"
+      },
+      "id": "5f8cee3befddd53e663849257ec78f7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Kylie's beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.793225,
+          -31.73854
+        ],
+        "type": "Point"
+      },
+      "id": "60aefd17cbb0e9e26041b481512d191e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2011",
+        "Outcome": "Injured",
+        "Area": "Port Stephens, Jimmys Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.176981,
+          -32.679552
+        ],
+        "type": "Point"
+      },
+      "id": "6147c02131ecfc9db214ad400afd9b17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2013",
+        "Outcome": "Fatal",
+        "Area": "Umbries off Gracetown",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          114.984639,
+          -33.89989
+        ],
+        "type": "Point"
+      },
+      "id": "65e59cd3a357cf5e46bd1cf140e912b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Mullaloo Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.732517,
+          -31.784557
+        ],
+        "type": "Point"
+      },
+      "id": "68a339dadcdd2d222a70601f593c7ffa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2014",
+        "Outcome": "Fatal",
+        "Area": "Chaeynes Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          118.399407,
+          -34.87498
+        ],
+        "type": "Point"
+      },
+      "id": "69662cb9211d6b47e7dca819fb09ef76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2011",
+        "Outcome": "Fatal",
+        "Area": "Perforated Island ",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          135.161114,
+          -34.729139
+        ],
+        "type": "Point"
+      },
+      "id": "69caf6075c701db88ca325cf365c1a19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Lion Island",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.314793,
+          -33.556376
+        ],
+        "type": "Point"
+      },
+      "id": "6b945b7dce8db6596fc1a1217fb70d67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2014",
+        "Outcome": "Fatal",
+        "Area": "Clarked Beach at Byron",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.623174,
+          -28.640488
+        ],
+        "type": "Point"
+      },
+      "id": "6d80d92121d534a3af75a6fd69191292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2015",
+        "Outcome": "Fatal",
+        "Area": "Maria and Lachland Islands",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          147.987889,
+          -42.64236
+        ],
+        "type": "Point"
+      },
+      "id": "7177300133933f9e88a5890b2143401a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Provoked",
+        "Year": "2017",
+        "Outcome": "Uninjured",
+        "Area": "Kingscliff",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.57769,
+          -28.252302
+        ],
+        "type": "Point"
+      },
+      "id": "72d3175e6295fb1f3a791934c393e240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2012",
+        "Outcome": "Fatal",
+        "Area": "Stratham Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.573264,
+          -33.453637
+        ],
+        "type": "Point"
+      },
+      "id": "745c93bdd69829f55a5bee7ec0a2ad9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Byron Bay, Belongi Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.594674,
+          -28.626065
+        ],
+        "type": "Point"
+      },
+      "id": "76976462e52f09dbfa824667417f6b0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Lennox Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.595833,
+          -28.791546
+        ],
+        "type": "Point"
+      },
+      "id": "786f386951e0166f058a2470ef23c916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Injured",
+        "Area": "Flinders",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          145.018781,
+          -38.483774
+        ],
+        "type": "Point"
+      },
+      "id": "7890943ff4849a7ebc128808650c779b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Burleigh Heads",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.454802,
+          -28.087065
+        ],
+        "type": "Point"
+      },
+      "id": "7cc5404c5e3c7a4c1337124103e60c1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Wedge Island",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.186356,
+          -30.825879
+        ],
+        "type": "Point"
+      },
+      "id": "7f007baa15fd2cae942bd7731f59fec9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Uninjured",
+        "Area": "Bells Beach Winkipop Reef",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.28383,
+          -38.368909
+        ],
+        "type": "Point"
+      },
+      "id": "7f1ead7c395bd5178d295afcacbe7c2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Byron Bay",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.632361,
+          -28.636162
+        ],
+        "type": "Point"
+      },
+      "id": "83f52b5aace953fbc4674e121e9ebb01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Russell Island",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          146.0766,
+          -17.20883
+        ],
+        "type": "Point"
+      },
+      "id": "8566ad7500811d893f263fdfd4e6565c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2015",
+        "Outcome": "Fatal",
+        "Area": "Shelly Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.597549,
+          -28.863547
+        ],
+        "type": "Point"
+      },
+      "id": "879b94830be4cf5f3f17e6f8c6fe83c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Injured",
+        "Area": "Port Macquarie",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.932373,
+          -31.477825
+        ],
+        "type": "Point"
+      },
+      "id": "904ffaa0720304a0b041b0133c875307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Sharpes Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.606172,
+          -28.83998
+        ],
+        "type": "Point"
+      },
+      "id": "94977a9a5aea0e1edd8545b64f479ee2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Coral Bay",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          113.820712,
+          -23.057005
+        ],
+        "type": "Point"
+      },
+      "id": "94d034ea090d565d64a557b3962b2ae2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Mullawarra Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.203164,
+          -30.063358
+        ],
+        "type": "Point"
+      },
+      "id": "957cef9fd8dac5ed90a82b85c1e5fe3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Ballina",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.606117,
+          -28.841289
+        ],
+        "type": "Point"
+      },
+      "id": "95a3064376fcbce6049e5f3ae721dc6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2012",
+        "Outcome": "Fatal",
+        "Area": "Port Geographe Marina",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.397988,
+          -33.626587
+        ],
+        "type": "Point"
+      },
+      "id": "9725adea1c6d61413204150952b7f9dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "South West National Park",
+        "State": "Tasmania"
+      },
+      "geometry": {
+        "coordinates": [
+          145.970888,
+          -43.394884
+        ],
+        "type": "Point"
+      },
+      "id": "972ae0c134c8ad9eeb87d707976c477e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "North Avoca Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.439274,
+          -33.459758
+        ],
+        "type": "Point"
+      },
+      "id": "99879e57a2ae5480f190dc080a9630d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "The Ruin Booti Booti National Park",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.522243,
+          -32.31019
+        ],
+        "type": "Point"
+      },
+      "id": "998dd70c27a0088010912d3219d9ea30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Injured",
+        "Area": "Parsons Beach",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          138.468034,
+          -35.631604
+        ],
+        "type": "Point"
+      },
+      "id": "9a1ed9698eed7bd889be3cc75f782673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2011",
+        "Outcome": "Injured",
+        "Area": "Yamba, Angourie Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.364289,
+          -29.485644
+        ],
+        "type": "Point"
+      },
+      "id": "9b709148d74cf240fc418ca2de01095b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Port Campbell",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          142.991933,
+          -38.620006
+        ],
+        "type": "Point"
+      },
+      "id": "9e418e12e7e575285c3e0d99e48bf3d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Injured",
+        "Area": "Wylie Bay, Esperance",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          121.998373,
+          -33.829648
+        ],
+        "type": "Point"
+      },
+      "id": "9f8d3202256a8affafe0f0273e92640c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Yamba, Flat Rock, Pippi Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.364499,
+          -29.453221
+        ],
+        "type": "Point"
+      },
+      "id": "a10e7db276e5c1a89039bf549d9feea9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Injidup Beach Yallingup",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          114.98741,
+          -33.698387
+        ],
+        "type": "Point"
+      },
+      "id": "a36ea9e9f45fd1ebac8cc22a29418b1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Injured",
+        "Area": "Port Macquarie",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.931998,
+          -31.452947
+        ],
+        "type": "Point"
+      },
+      "id": "a5538abc4066768694f6fbe4b6b40d68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Injured",
+        "Area": "Chevron Island",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.425109,
+          -28.000086
+        ],
+        "type": "Point"
+      },
+      "id": "a80130dcc015742c059389dc56ba87ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Heron Island",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          151.911544,
+          -23.440498
+        ],
+        "type": "Point"
+      },
+      "id": "ab684887b1c21eea486cdca0bebbe8ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Fishery Bay Nr Port Lincoln",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          135.681231,
+          -34.912033
+        ],
+        "type": "Point"
+      },
+      "id": "ae193827c24af79565676a43bb49e6b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Hams Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.656707,
+          -33.100009
+        ],
+        "type": "Point"
+      },
+      "id": "af5bf8ae5b03a1a8480a504ee3ca9256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Lighthouse Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.592608,
+          -28.869037
+        ],
+        "type": "Point"
+      },
+      "id": "af9c9707d8621cfc842b71390d44bfcf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Injured",
+        "Area": "Pyramids Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.62688,
+          -32.610391
+        ],
+        "type": "Point"
+      },
+      "id": "b47a59db7690908f986459496b7cbe9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Crescent Head",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.967925,
+          -31.308021
+        ],
+        "type": "Point"
+      },
+      "id": "b5bf471821ab3c03e8600e6605046214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Dee Why Beach, Sydney",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.304551,
+          -33.746993
+        ],
+        "type": "Point"
+      },
+      "id": "b8d2351c43a1f0f9377877397b3f9e9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2015",
+        "Outcome": "Uninjured",
+        "Area": "Surfers Paradise",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.419428,
+          -27.955087
+        ],
+        "type": "Point"
+      },
+      "id": "babd6f4c6800677cccf6cc5d96494664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Streaky Bay",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          134.203144,
+          -32.796065
+        ],
+        "type": "Point"
+      },
+      "id": "be3a129d41655a78c4cf7afb791fb853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Uninjured",
+        "Area": "Bargara, Archies Beach",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          152.482844,
+          -24.863036
+        ],
+        "type": "Point"
+      },
+      "id": "c0973c7fddc2b76960494d06971737f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Bombo Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          150.855397,
+          -34.66176
+        ],
+        "type": "Point"
+      },
+      "id": "c22426f88235ff980c07bb9110c55134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Cronulla Beach, Sydney",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.169013,
+          -34.039586
+        ],
+        "type": "Point"
+      },
+      "id": "c57d86cd8262f63e547bc694ae3689da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2011",
+        "Outcome": "Fatal",
+        "Area": "Cottesloe Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.749463,
+          -31.995499
+        ],
+        "type": "Point"
+      },
+      "id": "c8e3d412b8c5968c4b7a578e38cd6e5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2014",
+        "Outcome": "Injured",
+        "Area": "Port Macquarie",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.918772,
+          -31.428492
+        ],
+        "type": "Point"
+      },
+      "id": "ca01a4b95ce693d3bb44f043b386e9f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "13th Beach, Boings",
+        "State": "Victoria"
+      },
+      "geometry": {
+        "coordinates": [
+          144.453721,
+          -38.285562
+        ],
+        "type": "Point"
+      },
+      "id": "cf0e20ffe21de1a09f7edc3059423522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Dolphin Bay",
+        "State": "South Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          136.984808,
+          -35.233968
+        ],
+        "type": "Point"
+      },
+      "id": "cfcdb80bab3e524f518ebe5db7e6575a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Garden Island",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.669351,
+          -32.208128
+        ],
+        "type": "Point"
+      },
+      "id": "d271bae954492decf752cf6bdf73681b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2013",
+        "Outcome": "Injured",
+        "Area": "Gold Coast",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          153.43503,
+          -28.016778
+        ],
+        "type": "Point"
+      },
+      "id": "d49cf6d05ba7b36af1b8eac39c39e36a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Mona Vale",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          151.321299,
+          -33.666114
+        ],
+        "type": "Point"
+      },
+      "id": "d63173c2204c99786763f2d11889854c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2011",
+        "Outcome": "Injured",
+        "Area": "Suffolk Park",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.615649,
+          -28.704257
+        ],
+        "type": "Point"
+      },
+      "id": "db194e41eb904a848cc9eab2074cff69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Yamba, Iluka, Frasers Reef",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.36986,
+          -29.387627
+        ],
+        "type": "Point"
+      },
+      "id": "dedc1dcb9381f1de77fe2d3cb1d499ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Uninjured",
+        "Area": "Wallabi Point Old Bar",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          152.571346,
+          -31.997789
+        ],
+        "type": "Point"
+      },
+      "id": "e14ae2b7559e46ca86207e4a9c268034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2011",
+        "Outcome": "Injured",
+        "Area": "Exmouth",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          114.131245,
+          -21.982674
+        ],
+        "type": "Point"
+      },
+      "id": "e3ec4fcdf8f782bfbf2b6cee5007ab62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Thursday island, Torre Strait",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          142.205881,
+          -10.579026
+        ],
+        "type": "Point"
+      },
+      "id": "e5b48ea3dd038b194f1c34b668914715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2008",
+        "Outcome": "Fatal",
+        "Area": "Lighthouse Beach",
+        "State": "New South Wales"
+      },
+      "geometry": {
+        "coordinates": [
+          153.591367,
+          -28.872924
+        ],
+        "type": "Point"
+      },
+      "id": "ed651b1393c49c351138f9df60b36ef3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2010",
+        "Outcome": "Injured",
+        "Area": "Conspicuous Cliff Beach",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          116.842195,
+          -35.040224
+        ],
+        "type": "Point"
+      },
+      "id": "efcbf754813f554584eb3994f65f0a95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Provoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Whitehaven Beach Whitsundays",
+        "State": "Queensland"
+      },
+      "geometry": {
+        "coordinates": [
+          149.040284,
+          -20.281694
+        ],
+        "type": "Point"
+      },
+      "id": "f1cf1a8689d90b15cbde75cd6e7e3352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Provoked",
+        "Year": "2016",
+        "Outcome": "Uninjured",
+        "Area": "Coral Bay",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          113.770529,
+          -23.140072
+        ],
+        "type": "Point"
+      },
+      "id": "f4f61262587b4845c6864b13d4a68590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2011",
+        "Outcome": "Fatal",
+        "Area": "Dunsborough",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.046366,
+          -33.543974
+        ],
+        "type": "Point"
+      },
+      "id": "f91491ede2544661a25164c409fac476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2016",
+        "Outcome": "Injured",
+        "Area": "Bundegi Sanctuary Zone Exmouth",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          114.150613,
+          -21.871805
+        ],
+        "type": "Point"
+      },
+      "id": "f9e6f4992618fe9f9550f7e828c15814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "Unprovoked",
+        "Year": "2012",
+        "Outcome": "Injured",
+        "Area": "Red Bluff",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          113.62632,
+          -24.88139
+        ],
+        "type": "Point"
+      },
+      "id": "fa7d305d9f120b01a4b5d5ae670f097f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "P/U": "",
+        "Year": "2012",
+        "Outcome": "Fatal",
+        "Area": "Wedge Island",
+        "State": "Western Australia"
+      },
+      "geometry": {
+        "coordinates": [
+          115.19026,
+          -30.826921
+        ],
+        "type": "Point"
+      },
+      "id": "fcedc37a1e2946634b71ececc4e7d3a7"
+    }
+  ],
+  "type": "FeatureCollection"
+}
